@@ -1,0 +1,1437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spacious\n"
+"POT-Creation-Date: 2015-08-06 12:38+0545\n"
+"PO-Revision-Date: 2015-12-05 23:00+0330\n"
+"Last-Translator: atefe <atefeaghazadeh@yahoo.com>\n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x;_x;_nx;_ex;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "صفحه ای با این آدرس یافت نشد"
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "به نظر می رسد اینجا چیزی پیدا نشد.می توانید از ابزار جستجو کمک بگیرید"
+
+#: 404.php:35
+msgid "404"
+msgstr "404"
+
+#: 404.php:37
+msgid "error"
+msgstr "خطا"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "یک دیدگاه در &ldquo;%2$s&rdquo;"
+msgstr[1] ""
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "پیمایش دیدگاه ها "
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; دیدگاه های قدیمی تر"
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "دیدگاه های جدیدتر &rarr;"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته شده است."
+
+#: content-page.php:20 content-single.php:41
+msgid "Pages:"
+msgstr "صفحه:"
+
+#: content.php:45 content.php:50 inc/header-functions.php:62
+#: inc/widgets/widgets.php:238 inc/widgets/widgets.php:409
+#: inc/widgets/widgets.php:956
+msgid "Read more"
+msgstr "ادامه"
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "انتخاب خروجی"
+
+#: inc/admin/meta-boxes.php:20
+msgid "Icon class"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:22
+msgid "Our Team Designation"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:32
+msgid "Default Layout"
+msgstr "خروجی پیش فرض"
+
+#: inc/admin/meta-boxes.php:37 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "ستون راست"
+
+#: inc/admin/meta-boxes.php:42 inc/widgets/widgets.php:31
+msgid "Left Sidebar"
+msgstr "ستون چپ"
+
+#: inc/admin/meta-boxes.php:47
+msgid "No Sidebar Full Width"
+msgstr "ستون عریض وجود ندارد"
+
+#: inc/admin/meta-boxes.php:52
+msgid "No Sidebar Content Centered"
+msgstr "بدون محتوا در نوار میانه"
+
+#: inc/admin/meta-boxes.php:59
+msgid "fontawesome Icons"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:66
+msgid "team designation"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:113
+msgid "If featured image is not used than display the icon in Services. </br>"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:117
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Refer here</a> for icon class. For example: "
+"<strong>fa-mobile</strong>"
+msgstr ""
+
+#: inc/admin/meta-boxes.php:124
+msgid "Show designation in Our Team Widget. </br>"
+msgstr ""
+
+#: inc/customizer.php:14
+msgid "Contain all the Header related options"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Himalayas Header Options"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Header Sticky/non-sticky"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Header is sticky by default."
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Check to make header non-sticky"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Header Transparency"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "By default Header is transparent when slider is used."
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Make header non transparent."
+msgstr ""
+
+#: inc/customizer.php:59
+msgid "Header Title/Tagline and Logo"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid ""
+"<strong>Note:</strong> The recommended height for header logo image is 68px."
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Header Logo Image Upload"
+msgstr ""
+
+#: inc/customizer.php:86
+msgid "Choose the required option"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Header Logo Only"
+msgstr "فقط لوگو در سربرگ باشد"
+
+#: inc/customizer.php:90
+msgid "Header Text Only"
+msgstr "فقط متن در سربرگ باشد"
+
+#: inc/customizer.php:91
+msgid "Show Both"
+msgstr "هر دو نمایش داده شوند."
+
+#: inc/customizer.php:92
+msgid "Disable"
+msgstr "غیر فعال"
+
+#: inc/customizer.php:103
+msgid "Contain all the slider related options"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Himalayas Slider Options"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Note"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid ""
+"1. To display the Slider first check Enable the slider below. Now create the "
+"page for each slider and enter title, text and featured image. Choose that "
+"pages in the dropdown options."
+msgstr ""
+
+#: inc/customizer.php:111
+msgid ""
+"2. The recommended size for the slider image is 1600 x 780 pixels. For "
+"better functioning of slider use equal size images for each slide."
+msgstr ""
+
+#: inc/customizer.php:111
+msgid ""
+"3. If page do not have featured Image than that page will not included in "
+"slider show."
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Enable the slider"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: inc/customizer.php:150
+msgid "Contain all the Design related options"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Himalayas Design Options"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Default layout"
+msgstr "نمای خروجی پیش فرض"
+
+#: inc/customizer.php:231
+msgid ""
+"Select default layout. This layout will be reflected in whole site archives, "
+"categories, search page etc. The layout for a single post and page can be "
+"controlled from below options"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Default layout for pages only"
+msgstr "نمای پیش فرض برای برگه"
+
+#: inc/customizer.php:258
+msgid ""
+"Select default layout for pages. This layout will be reflected in all pages "
+"unless unique layout is set for specific page"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Default layout for single posts only"
+msgstr "نمای پیش فرض برای صفحه نوشته"
+
+#: inc/customizer.php:285
+msgid ""
+"Select default layout for single posts. This layout will be reflected in all "
+"single posts unless unique layout is set for specific post"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Primary color option"
+msgstr "تنظیمات رنگ اولیه/اصلی"
+
+#: inc/customizer.php:312
+msgid ""
+"This will reflect in links, buttons and many others. Choose a color to match "
+"your site"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Footer Layout Options"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Select the Footer Layout"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Choose Footer Layout One"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Choose Footer Layout Two"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Custom CSS"
+msgstr "CSS های انتخابی"
+
+#: inc/customizer.php:369
+msgid "Write your custom css"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Contain additional options"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Himalayas Additional Options"
+msgstr ""
+
+#: inc/customizer.php:389
+msgid "Hide Blog posts from the front page"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Check to hide blog posts/static page on front page"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid "Excerpts or Full Posts option"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid ""
+"Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Show full post content"
+msgstr ""
+
+#: inc/customizer.php:423
+msgid "Show excerpt"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Documentation"
+msgstr "مستندات"
+
+#: inc/customizer.php:442
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: inc/customizer.php:446
+msgid "View Demo"
+msgstr "پیش نمایش"
+
+#: inc/customizer.php:450
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Himalayas Theme Important Links"
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "Important Links"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Theme Info"
+msgstr ""
+
+#: inc/customizer.php:543
+msgid "View PRO version"
+msgstr ""
+
+#: inc/functions.php:175
+#, php-format
+msgid ""
+"<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> "
+"%3$s</a></span>"
+msgstr ""
+"<span class=\"ارسال شده در\"><a href=\"%1$s\" title=\"%2$s\" rel=\"بوکمارک"
+"\"><i class=\"fa fa-calendar-o\"></i> %3$s</a></span>"
+
+#: inc/functions.php:185
+msgid "0 Comment"
+msgstr "0 دیدگاه"
+
+#: inc/functions.php:185
+msgid "1 Comment"
+msgstr "یک دیدگاه "
+
+#: inc/functions.php:185
+msgid " % Comments"
+msgstr "% دیدگاه"
+
+#: inc/functions.php:195
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/functions.php:306
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:306
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: inc/functions.php:321
+msgid "Post author"
+msgstr "نویسنده نوشته"
+
+#: inc/functions.php:324
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در%2$s"
+
+#: inc/functions.php:332
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید شدن است"
+
+#: inc/functions.php:337
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/functions.php:357
+msgid "WordPress"
+msgstr "وردپرس"
+
+#: inc/functions.php:359
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:361
+#, php-format
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: inc/functions.php:361
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/functions.php:361
+#, php-format
+msgid "Powered by %s."
+msgstr ""
+
+#: inc/functions.php:409
+#, php-format
+msgid "Category: %s"
+msgstr "دسته : %s"
+
+#: inc/functions.php:411
+#, php-format
+msgid "Tag: %s"
+msgstr "برچسب: %s"
+
+#: inc/functions.php:413
+#, php-format
+msgid "Author: %s"
+msgstr "نویسندهک  %s"
+
+#: inc/functions.php:415
+#, php-format
+msgid "Year: %s"
+msgstr "سال: %s"
+
+#: inc/functions.php:415
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/functions.php:417
+#, php-format
+msgid "Month: %s"
+msgstr "ماه: %s"
+
+#: inc/functions.php:417
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/functions.php:419
+#, php-format
+msgid "Day: %s"
+msgstr "روز:  %s"
+
+#: inc/functions.php:419
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/functions.php:422
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/functions.php:424
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/functions.php:426
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/functions.php:428
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/functions.php:430
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/functions.php:432
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/functions.php:434
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/functions.php:436
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/functions.php:438
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/functions.php:441
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/functions.php:445
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/functions.php:447
+msgid "Archives"
+msgstr "آرشیو"
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "نمایش ابزارک ها در سمت راست"
+
+#: inc/widgets/widgets.php:33
+msgid "Shows widgets at Left side."
+msgstr "نمایش ابزارک ها در سمت چپ"
+
+#: inc/widgets/widgets.php:41
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:43
+msgid "Show widgets at Front Page Content Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:51
+msgid "Error 404 Page Sidebar"
+msgstr "ستون صفحه خطای 404"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Error 404 page."
+msgstr "نمایش ابزارک ها در صفحه اخطار 404"
+
+#: inc/widgets/widgets.php:61
+msgid "Footer Sidebar One"
+msgstr "ستون پابرگ یک"
+
+#: inc/widgets/widgets.php:63 inc/widgets/widgets.php:73
+#: inc/widgets/widgets.php:83
+msgid "Shows widgets on footer."
+msgstr ""
+
+#: inc/widgets/widgets.php:71
+msgid "Footer Sidebar Two"
+msgstr "ستون پابرگ دو"
+
+#: inc/widgets/widgets.php:81
+msgid "Footer Sidebar Three"
+msgstr "ستون پابرگ سه"
+
+#: inc/widgets/widgets.php:106
+msgid "Show your about page."
+msgstr ""
+
+#: inc/widgets/widgets.php:108
+msgid "TG: About Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:130
+msgid ""
+"Note: Enter the About Section ID and use same for Menu item. Only used for "
+"One Page Menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:133
+msgid "About Section ID:"
+msgstr ""
+
+#: inc/widgets/widgets.php:138 inc/widgets/widgets.php:293
+#: inc/widgets/widgets.php:607 inc/widgets/widgets.php:792
+#: inc/widgets/widgets.php:1041 inc/widgets/widgets.php:1221
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/widgets/widgets.php:142 inc/widgets/widgets.php:297
+#: inc/widgets/widgets.php:611 inc/widgets/widgets.php:795
+#: inc/widgets/widgets.php:1044 inc/widgets/widgets.php:1225
+msgid "Description"
+msgstr "توضیحات"
+
+#: inc/widgets/widgets.php:145
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr ""
+
+#: inc/widgets/widgets.php:146 inc/widgets/widgets.php:1229
+msgid "Page"
+msgstr "صفحه"
+
+#: inc/widgets/widgets.php:150 inc/widgets/widgets.php:483
+#: inc/widgets/widgets.php:814
+msgid "Button Text:"
+msgstr "نوشته دکمه:"
+
+#: inc/widgets/widgets.php:155 inc/widgets/widgets.php:487
+#: inc/widgets/widgets.php:818
+msgid "Button Redirect Link:"
+msgstr "پیوند دکمه:"
+
+#: inc/widgets/widgets.php:160
+msgid "Button Icon Class:"
+msgstr ""
+
+#: inc/widgets/widgets.php:166
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr ""
+
+#: inc/widgets/widgets.php:267
+msgid "Display some pages as services."
+msgstr ""
+
+#: inc/widgets/widgets.php:269
+msgid "TG: Service Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:285
+msgid ""
+"Note: Enter the Service Section ID and use same for Menu item. Only used for "
+"One Page Menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:288
+msgid "Service Section ID:"
+msgstr ""
+
+#: inc/widgets/widgets.php:301 inc/widgets/widgets.php:1048
+msgid "Number of pages to display:"
+msgstr ""
+
+#: inc/widgets/widgets.php:305
+msgid ""
+"Note: Create the pages and select Services Template to display Services "
+"pages."
+msgstr ""
+
+#: inc/widgets/widgets.php:434
+msgid "Use this widget to show the call to action section."
+msgstr ""
+
+#: inc/widgets/widgets.php:436
+msgid "TG: Call To Action Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:459 inc/widgets/widgets.php:771
+#: inc/widgets/widgets.php:1020
+msgid "DESIGN SETTINGS :"
+msgstr ""
+
+#: inc/widgets/widgets.php:460 inc/widgets/widgets.php:772
+#: inc/widgets/widgets.php:1022
+msgid "Background Color:"
+msgstr ""
+
+#: inc/widgets/widgets.php:464 inc/widgets/widgets.php:777
+msgid "Image:"
+msgstr ""
+
+#: inc/widgets/widgets.php:473 inc/widgets/widgets.php:786
+#: inc/widgets/widgets.php:1035
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:476 inc/widgets/widgets.php:789
+#: inc/widgets/widgets.php:1038
+msgid "OTHER SETTINGS :"
+msgstr ""
+
+#: inc/widgets/widgets.php:478
+msgid "Call to Action Main Text"
+msgstr ""
+
+#: inc/widgets/widgets.php:480
+msgid "Call to Action Additional Text"
+msgstr ""
+
+#: inc/widgets/widgets.php:490
+msgid "Choose the layout"
+msgstr ""
+
+#: inc/widgets/widgets.php:493
+msgid "Layout One"
+msgstr ""
+
+#: inc/widgets/widgets.php:494
+msgid "Layout Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:581
+msgid "Display portfolio by using specific category"
+msgstr ""
+
+#: inc/widgets/widgets.php:583
+msgid "TG: Portfolio"
+msgstr ""
+
+#: inc/widgets/widgets.php:599
+msgid ""
+"Note: Enter the Portfolio Section ID and use same for Menu item. Only used "
+"for One Page Menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:602
+msgid "Portfolio Section ID:"
+msgstr ""
+
+#: inc/widgets/widgets.php:615 inc/widgets/widgets.php:799
+msgid "Number of posts to display:"
+msgstr ""
+
+#: inc/widgets/widgets.php:619
+msgid ""
+"Note: Create the pages and select Portfolio Template to display Portfolio "
+"pages."
+msgstr ""
+
+#: inc/widgets/widgets.php:734
+msgid "Display latest posts or posts of specific category"
+msgstr ""
+
+#: inc/widgets/widgets.php:736
+msgid "TG: Featured Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:764
+msgid ""
+"Note: Enter the Featured Post Section ID and use same for Menu item. Only "
+"used for One Page Menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:766
+msgid "Featured Post Section ID:"
+msgstr ""
+
+#: inc/widgets/widgets.php:804
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:805
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/widgets.php:809
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/widgets.php:926
+msgid "Posted in "
+msgstr "ارسال شده در"
+
+#: inc/widgets/widgets.php:931
+msgid "by "
+msgstr "توسط"
+
+#: inc/widgets/widgets.php:936
+msgid "on "
+msgstr "در"
+
+#: inc/widgets/widgets.php:944
+#, php-format
+msgid ""
+"<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"></i> %3$s</a></span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:991
+msgid "Show your Team Members."
+msgstr ""
+
+#: inc/widgets/widgets.php:993
+msgid "TG: Our Team Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1014
+msgid ""
+"Note: Enter the Our Team Section ID and use same for Menu item. Only used "
+"for One Page Menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:1016
+msgid "Our Team Section ID:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1026
+msgid "Background Image:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1051
+msgid ""
+"Note: Create the pages and select Our Team Template to display Our Team "
+"pages."
+msgstr ""
+
+#: inc/widgets/widgets.php:1193
+msgid "Show your Contact page."
+msgstr ""
+
+#: inc/widgets/widgets.php:1195
+msgid "TG: Contact Us Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:1213
+msgid ""
+"Note: Enter the Contact Section ID and use same for Menu item. Only used for "
+"One Page Menu."
+msgstr ""
+
+#: inc/widgets/widgets.php:1216
+msgid "Contact Section ID:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1228
+msgid "Select a Contact page."
+msgstr ""
+
+#: inc/widgets/widgets.php:1232
+msgid "Use Contact Form Plugin and enter the shortcode here:"
+msgstr ""
+
+#: inc/widgets/widgets.php:1234
+msgid "Shortcode"
+msgstr ""
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; نوشته های قدیمی تر"
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "نوشته های جدیدتر &rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: no-results.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "آماده انتشار اولین نوشته خود هستید؟<a href=\"%1$s\">شروع کنید</a>."
+
+#: no-results.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متاسفانه جستجوی شما نتیجه ای در بر نداشت.لطفا با کلمات دیگری امتحان کنید."
+
+#: no-results.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"ما ن&rsquo;می توانیم صفحه مورد نظر شم&rsquo;ا را پیدا کنیم.شاید استفاده از "
+"جستجو گر بتواند شما را به نتیجه دلخواه راهنمایی کند."
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "جستجو &hellip;"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: sidebar-left.php:18 sidebar.php:18
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar-left.php:19
+#, php-format
+msgid ""
+"This is an example widget to show how the Left Sidebar looks by default. You "
+"can add custom widgets from the %swidgets screen%s in the admin. If custom "
+"widgets is added than this will be replaced by those widgets."
+msgstr ""
+
+#: sidebar.php:19
+#, php-format
+msgid ""
+"This is an example widget to show how the Right Sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin. If "
+"custom widgets is added than this will be replaced by those widgets."
+msgstr ""
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. You can try a search "
+#~ "instead."
+#~ msgstr "شاید با جستجو بتوانید مطلب مورد نظر را یافت کنید"
+
+#~ msgid "Older Comments"
+#~ msgstr "دیدگاه های قدیمی‌تر"
+
+#~ msgid "Newer Comments"
+#~ msgstr "دیدگاه جدیدتر"
+
+#~ msgid "Social Menu"
+#~ msgstr "فهرست شبکه‌های اجتماعی"
+
+#~ msgid "Category Menu"
+#~ msgstr "منوی دسته"
+
+#~ msgid "Menu"
+#~ msgstr "سربرگ"
+
+#~ msgid "Header Logo"
+#~ msgstr "لوگو سربرگ"
+
+#~ msgid "Breaking News"
+#~ msgstr "آخرین اخبار"
+
+#~ msgid "Site Layout"
+#~ msgstr "خروجی سایت"
+
+#~ msgid ""
+#~ "Select default layout for pages. This layout will be reflected in all "
+#~ "pages unless unique layout is set for specific page."
+#~ msgstr "نمای خروجی برای صفحه اختصاصی برگه ها"
+
+#~ msgid ""
+#~ "Select default layout for single posts. This layout will be reflected in "
+#~ "all single posts unless unique layout is set for specific post."
+#~ msgstr "نمای خروجی برای صفحه اختصاصی نوشته ها"
+
+#~ msgid "Page %s"
+#~ msgstr "صفحه  %s"
+
+#~ msgid "Breaking News:"
+#~ msgstr "آخرین اخبار:"
+
+#~ msgid "Posted By: "
+#~ msgstr "توسط :"
+
+#~ msgid "<i class=\"fa fa-comment\"></i> 0 Comment"
+#~ msgstr "<i class=\"fa fa-comment\"></i>بدون دیدگاه"
+
+#~ msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
+#~ msgstr "<i class=\"fa fa-comment\"></i> یک دیدگاه"
+
+#~ msgid "<i class=\"fa fa-comments\"></i> % Comments"
+#~ msgstr "<i class=\"fa fa-comments\"></i> % دیدگاه"
+
+#~ msgid "You May Also Like"
+#~ msgstr "مطالب مرتبط"
+
+#~ msgid "Post navigation"
+#~ msgstr "پیمایش نوشته"
+
+#~ msgid "Header Sidebar"
+#~ msgstr "ستون بالایی"
+
+#~ msgid "Contact Page Sidebar"
+#~ msgstr "ستون صفحه مکاتبه"
+
+#~ msgid "Front Page: Content Middle Left Section"
+#~ msgstr "برگه نخست : بخش میانی سمت راست"
+
+#~ msgid "Shows widgets in the Front Page: Content Middle Left Section."
+#~ msgstr "برگه نخست : بخش میانی سمت راست"
+
+#~ msgid "Front Page: Content Middle Right Section"
+#~ msgstr "برگه نخست : بخش میانی سمت چپ"
+
+#~ msgid "Shows widgets in the Front Page: Content Middle Right Section."
+#~ msgstr "برگه نخست : بخش میانی سمت چپ"
+
+#~ msgid " Read More <i class=\"fa fa-angle-double-right\"></i>"
+#~ msgstr "<i class=\"fa fa-angle-double-left\"></i> ادامه مطلب"
+
+#~ msgid "Read More <i class=\"fa fa-angle-double-right\"></i>"
+#~ msgstr "<i class=\"fa fa-angle-double-left\"></i> ادامه مطلب"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "نتایج جستجو برای: %s"
+
+#~ msgid "Enter a word for search"
+#~ msgstr "جستجو..."
+
+#~ msgid "Nothing Found"
+#~ msgstr "چیزی یافت نشد"
+
+#~ msgid "Asides"
+#~ msgstr "کلمات قصار"
+
+#~ msgid "Images"
+#~ msgstr "تصاویر"
+
+#~ msgid "Videos"
+#~ msgstr "ویدیوها"
+
+#~ msgid "Quotes"
+#~ msgstr "نقل قول"
+
+#~ msgid "Links"
+#~ msgstr "پیوندها"
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgstr "یک دیدگاه در &ldquo;%2$s&rdquo;"
+
+#~ msgid "Activate favicon"
+#~ msgstr "فعال کردن favicon"
+
+#~ msgid "&larr;"
+#~ msgstr "&larr;"
+
+#~ msgid "&rarr;"
+#~ msgstr "&larr;"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> نوشته های قدیمی تر"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "نوشته های جدیدتر <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Latest:"
+#~ msgstr "تازه ها:"
+
+#~ msgid "Shows widgets in header section just above the main navigation menu."
+#~ msgstr "ابزارک را در بخش بالایی منوی اصلی نمایش می دهد"
+
+#~ msgid "Shows widgets on Contact Page Template."
+#~ msgstr "ابزارک ها را در صفحه مکاتبه نمایش می دهد"
+
+#~ msgid "Shows widgets at footer sidebar one."
+#~ msgstr "نمایش ابزارک ها در پابرگ یک"
+
+#~ msgid "Shows widgets at footer sidebar two."
+#~ msgstr "نمایش ابزارک ها در پابرگ دو"
+
+#~ msgid "Shows widgets at footer sidebar three."
+#~ msgstr "نمایش ابزارک ها در پابرگ سه"
+
+#~ msgid "Footer Sidebar Four"
+#~ msgstr "ستون پابرگ چهار"
+
+#~ msgid "Shows widgets at footer sidebar four."
+#~ msgstr "نمایش ابزارک ها در پابرگ چهار"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid "No Comments"
+#~ msgstr "دیدگاهی ثبت نشده است."
+
+#~ msgid "% Comments"
+#~ msgstr "%  دیدگاه"
+
+#~ msgid "Comments Off"
+#~ msgstr "دیدگاه غیر فعال است"
+
+#~ msgid "Tagged on: "
+#~ msgstr "دسته بندی شده در:"
+
+#~ msgid "Theme Options"
+#~ msgstr "تنظیمات پوسته"
+
+#~ msgid "Save Options"
+#~ msgstr "ذخیره تغییرات"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "بازگشت به تنظیمات پیش فرض"
+
+#~ msgid "Click OK to reset. Any theme settings will be lost!"
+#~ msgstr ""
+#~ "برای بازگشت به تنظیمات پیش فرض کلیک کنید.همه ی تنظیمات پوسته از دست رفته "
+#~ "است."
+
+#~ msgid "Default options restored."
+#~ msgstr "قالب به تنظیمات پیش فرض بازگشت"
+
+#~ msgid "Options saved."
+#~ msgstr "تغییرات ذخیره شد"
+
+#~ msgid "No file chosen"
+#~ msgstr "پرونده ای انتخاب نشده است"
+
+#~ msgid "Upload"
+#~ msgstr "بارگزاری"
+
+#~ msgid "Remove"
+#~ msgstr "پاک کردن"
+
+#~ msgid "Upgrade your version of WordPress for full media support."
+#~ msgstr "برای پشتیبانی از تمام امکانات وردپرس خود را بروزآوری کنید"
+
+#~ msgid "View File"
+#~ msgstr "نمایش پرونده"
+
+#~ msgid "No Repeat"
+#~ msgstr "بدون تکرار"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "تکرار افقی"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "تکرار عمودی"
+
+#~ msgid "Repeat All"
+#~ msgstr "تکرار همه"
+
+#~ msgid "Top Left"
+#~ msgstr "گوشه بالا چپ"
+
+#~ msgid "Top Center"
+#~ msgstr "بالا میانه"
+
+#~ msgid "Top Right"
+#~ msgstr "گوشه بالا راست"
+
+#~ msgid "Middle Left"
+#~ msgstr "سمت چپ میانه"
+
+#~ msgid "Middle Center"
+#~ msgstr "میانه "
+
+#~ msgid "Middle Right"
+#~ msgstr "سمت راست میانه"
+
+#~ msgid "Bottom Left"
+#~ msgstr "دکمه چپ"
+
+#~ msgid "Bottom Center"
+#~ msgstr "دکمه میانه"
+
+#~ msgid "Bottom Right"
+#~ msgstr "دکمه راست"
+
+#~ msgid "Scroll Normally"
+#~ msgstr "نوار معمولی"
+
+#~ msgid "Fixed in Place"
+#~ msgstr "همانگ شد."
+
+#~ msgid "Normal"
+#~ msgstr "معمولی"
+
+#~ msgid "Italic"
+#~ msgstr "Italic"
+
+#~ msgid "Bold"
+#~ msgstr "Bold"
+
+#~ msgid "Bold Italic"
+#~ msgstr "Bold Italic"
+
+#~ msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+#~ msgstr "<a class=\"comment-permalink\" href=\"%1$s\">پیوند یکتا</a>"
+
+#~ msgid "Copyright &copy; "
+#~ msgstr "کپی رایت  &copy;"
+
+#~ msgid "Theme by: spacious"
+#~ msgstr "قالب از:  spacious"
+
+#~ msgid "Powered by: "
+#~ msgstr "قدرت گرفته از:"
+
+#~ msgid "Page NOT Found"
+#~ msgstr "صفحه پیدا نشد"
+
+#~ msgid "Search Results"
+#~ msgstr "نتیجه جستجو"
+
+#~ msgid "You are here:"
+#~ msgstr "شما اینجا هستید:"
+
+#~ msgid "Business Top Sidebar"
+#~ msgstr "ستون تجاری بالا"
+
+#~ msgid ""
+#~ "Shows widgets on Business Page Template Top Section. Sutiable widget: "
+#~ msgstr ""
+#~ "ابزارک ها را در صفحه تجاری  بخش بالایی نمایش میدهد,ابزارک های متناسب:."
+
+#~ msgid "Business Middle Left Sidebar"
+#~ msgstr "ستون تجاری :میانه چپ"
+
+#~ msgid ""
+#~ "Shows widgets on Business Page Template Middle Section Left Half. "
+#~ "Sutiable widget: "
+#~ msgstr ""
+#~ "ابزارک ها را در صفحه تجاری بخش میانی (نیمه چپ) نمایش میدهد,ابزارک های "
+#~ "متناسب:."
+
+#~ msgid "Business Middle Right Sidebar"
+#~ msgstr "ستون تجاری:میانه راست "
+
+#~ msgid ""
+#~ "Shows widgets on Business Page Template Middle Section Right Half. "
+#~ "Sutiable widget: "
+#~ msgstr ""
+#~ "ابزارک ها را در صفحه تجاری بخش میانی (نیمه راست) نمایش میدهد,ابزارک های "
+#~ "متناسب:."
+
+#~ msgid "Business Bottom Sidebar"
+#~ msgstr "ستون تجاری: پایین"
+
+#~ msgid ""
+#~ "Shows widgets on Business Page Template Bottom Section. Sutiable widget: "
+#~ msgstr ""
+#~ "ابزارک ها را در صفحه تجاری  بخش پایینی نمایش میدهد,ابزارک های متناسب:."
+
+#~ msgid "Display Featured Single Page"
+#~ msgstr "نمایش صفحه نوشته ویژه"
+
+#~ msgid "Displays the title of the Page if title input is empty."
+#~ msgstr "در صورت خالی بودن عنوان ورودی عنوان صفحه را نمایش بده"
+
+#~ msgid "Remove Featured image"
+#~ msgstr "پاک کردن تصویر ویژه"
+
+#~ msgid "Show Image Before Title"
+#~ msgstr "نمایش تصویر قبل از عنوان"
+
+#~ msgid "Show Image After Title"
+#~ msgstr "نمایش تصویر بعد از عنوان"
+
+#~ msgid ""
+#~ "Display some pages as services. Best for Business Top or Bottom sidebar."
+#~ msgstr "نمایش برخی صفحات خدمات.بهترین های قسمتتجاری پایین یا بالای ستون"
+
+#~ msgid "TG: Services"
+#~ msgstr "TG:خدمات"
+
+#~ msgid "Display Testimonial"
+#~ msgstr "نمایش اجازه نامه"
+
+#~ msgid "TG: Testimonial"
+#~ msgstr "TG: اجازه نامه"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "توضیحات اجازه نامه"
+
+#~ msgid "Name:"
+#~ msgstr "نام:"
+
+#~ msgid "Byline:"
+#~ msgstr "از خط:"
+
+#~ msgid "TG: Featured Widget"
+#~ msgstr "TG:ابزارک ویژه"
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&raquo;  قبلی"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "&laquo; بعدی"
+
+#~ msgid "Header"
+#~ msgstr "سربرگ "
+
+#~ msgid "Upload logo for your header."
+#~ msgstr "بارگزاری لوگو برای سربرگ سایت"
+
+#~ msgid "Show"
+#~ msgstr "نمایش"
+
+#~ msgid "Choose the option that you want."
+#~ msgstr "تغییرات مورد نظر خود را اعمال کنید"
+
+#~ msgid "Need to replace Header Image?"
+#~ msgstr "می خواهید تصویر سربرگ را ویرایش کنید؟"
+
+#~ msgid "<a href=\"%1$s\">Click Here</a>"
+#~ msgstr "<a href=\"%1$s\">اینجا را کلیک کنید</a>"
+
+#~ msgid "Heder Image Position"
+#~ msgstr "جایگاه قرارگیری تصویر در سربرگ"
+
+#~ msgid "Choose top header image display position."
+#~ msgstr "انتخاب جایگاه تصویر سربرگ"
+
+#~ msgid ""
+#~ "Position Above (Default): Display the Header image just above the site "
+#~ "title and main menu part."
+#~ msgstr "بالا(پیش فرض):قرار دادن تصویر در بالای منوی سربرگ و عنوان سایت"
+
+#~ msgid ""
+#~ "Position Below: Display the Header image just below the site title and "
+#~ "main menu part."
+#~ msgstr "پایین:قرار دادن تصویر سربرگ در پایین منوی سربرگ و عنوان"
+
+#~ msgid "Design"
+#~ msgstr "طراحی"
+
+#~ msgid "Choose your site layout. The change is reflected in whole site."
+#~ msgstr "چیدمان خروجی سایت را انتخاب کنید"
+
+#~ msgid "Boxed layout with content width of 1218px"
+#~ msgstr "نمای خروجی قالب بندی شده با عرض 1218 پیکسل"
+
+#~ msgid "Boxed layout with content width of 978px"
+#~ msgstr "نمای خروجی قالب بندی شده با عرض 978 پیکسل"
+
+#~ msgid "Wide layout with content width of 1218px"
+#~ msgstr "نمای خروجی عریض با عرض 1218 پیکسل"
+
+#~ msgid "Wide layout with content width of 978px"
+#~ msgstr "نمای خروجی عریض با عرض 978 پیکسل"
+
+#~ msgid ""
+#~ "Select default layout. This layout will be reflected in whole site "
+#~ "archives, search etc. The layout for a single post and page can be "
+#~ "controlled from below options."
+#~ msgstr "نمای خروجی برای صفحات آرشیو,جستجو و..."
+
+#~ msgid ""
+#~ "This will reflect in links, buttons and many others. Choose a color to "
+#~ "match your site."
+#~ msgstr "رنگ دکمه ها,پیوند ها و..."
+
+#~ msgid "Color Skin"
+#~ msgstr "رنگ اصلی قالب"
+
+#~ msgid "Choose the light or dark skin. This will be reflected in whole site."
+#~ msgstr "انتخاب پس زمینه روشن یا تیره برای سایت"
+
+#~ msgid "Need to replace default background?"
+#~ msgstr "می خواهید پس زمینه اصلی را تغییر دهید؟"
+
+#~ msgid ""
+#~ "Note: The background will only be seen if you choose any of the boxed "
+#~ "layout option in site layout option."
+#~ msgstr ""
+#~ "نکته:پیش زمینه تنها زمانی نمایش داده می شود که یکی از حالت های قالب بندی "
+#~ "شده برای نمای خروجی استفاده شود."
+
+#~ msgid "Write your custom css."
+#~ msgstr "کد CSS مورد علاقه خود را بنویسید."
+
+#~ msgid "Additional"
+#~ msgstr "تغییرات بیشتر"
+
+#~ msgid "Check to activate favicon. Upload fav icon from below option"
+#~ msgstr "فعال کردن favicon, favicon را بارگزاری کنید"
+
+#~ msgid "Upload favicon"
+#~ msgstr "قرار دادن favicon"
+
+#~ msgid "Upload favicon for your site."
+#~ msgstr "قرار دادن favicon برای سایت شما"
+
+#~ msgid "Activate slider"
+#~ msgstr "فعالسازی اسلایدر"
+
+#~ msgid "Check to activate slider."
+#~ msgstr "فعال کردن اسلایدر"
+
+#~ msgid "Image Upload #%1$s"
+#~ msgstr "تصویر اسلایدر %1$s"
+
+#~ msgid "Upload slider image."
+#~ msgstr "آپلود تصویر اسلایدر"
+
+#~ msgid "Slider Title %1$s"
+#~ msgstr "عنوان اسلایدر %1$s"
+
+#~ msgid "Enter title for your slider."
+#~ msgstr "عنوان اسلایدر را وارد کنید"
+
+#~ msgid "Slider Description %1$s"
+#~ msgstr "توضیح اسلایدر %1$s "
+
+#~ msgid "Enter your slider description."
+#~ msgstr "توضیحات اسلایدر"
+
+#~ msgid "Slider redirect link %1$s"
+#~ msgstr "لینک هدف اسلایدر %1$s"
+
+#~ msgid "Enter link to redirect slider when clicked"
+#~ msgstr "به اسلایدر لینک دهید"
+
+#~ msgid "About Spacious"
+#~ msgstr "درباره Spacious"
+
+#~ msgid "Upgrade to Pro"
+#~ msgstr "بروزاوری به نسخه حرفه ای"
+
+#~ msgid "Free Support"
+#~ msgstr "پشتیبانی رایگان"
+
+#~ msgid "If you like our work. Buy us a beer."
+#~ msgstr "If you like our work. Buy us a beer."
+
+#~ msgid "Meta"
+#~ msgstr "لینک"
