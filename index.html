@@ -1,11 +1,164 @@
-﻿<html>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=320, initial-scale=1">
+<meta name="viewport" content="width=980, initial-scale=1"> 
+<meta name="viewport" content="width=1024, initial-scale=1">  
+<title> Porofile </title>
+<link href="assets/style.css" rel="stylesheet" />
+<style type="text/css">
 
-<head> <title> وب سایت شخصی </title></head>
+header {
+     
+    background-color:#F08080;
+    color:White;
+    text-align:center;
+    padding:220px;
+    font-family:'Kunstler Script';
+    	 
+}
 
-<body dir=rtl>
+section {
+    width:1310px;
+    float:left;
+    text-align:center;
+    padding:20px;	 	 
+}
 
-<h2> علم داده و کاربردهای آن </h2>
+footer {
+    background-color:#F08080;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:30px;	 	 
+}
 
-<p>به وب سایت مهندسی داده خوش آمدید. در این وب سایت، مطالب مرتبط با علم داده را با هم مرور خواهیم کرد.</p>
+</style>
+</head>
 
+<body>
+      <header>
+          <a name="home">
+              <h1></h1>
+              <br />
+              <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Wellcome to page me</p>
+              <br />
+              <br />
+              <br />
+              <br />
+              <p style="font-family:'Segoe UI'"> Home Page </p>
+          </a>
+     </header>
+
+     <section style="background-color:IndianRed">
+         <a href="#home">
+             <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:black; text-align:left">
+                 <img src="logo.png" /> Profiler
+             </p>
+         </a>
+        <!--menu va taghirat-->
+         
+         <nav>
+             <ul>
+
+                 <li><a href="#home">Home</a></li>
+                 
+                 <li><a href="#Galery">Galery</a></li>
+                 <li><a href="#Contact">Contact</a></li>
+             </ul>
+         </nav>
+             <br/>
+             <br/>
+             <hr /> 
+     </section>
+    
+     <section style="font-family:'Segoe UI'">
+       
+           
+             <!--contact details va shomare ina -->
+             <a href="#home">
+
+
+
+         </a>
+        
+     </section>
+    <!--matn ballaie aks-->
+     <section style="font-family:'Segoe UI'">
+         <a name="Galery">
+         <h3 style="text-align:center;font-family:'Segoe UI'; font-size:xx-large">Galery</h3>
+         <br />
+         <p style="text-align:center">-------------------------------</p>
+         <br/>
+         <p style="text-align: center">Shoma Mitavanid Tamam Aks Hay Bande Ra Az in Ja bebinid<br/>
+          </p>
+         <br />
+             <!--bakhsh menu galery-->
+         <div class="vms-sliding-gallery">
+             
+             <a href="#home">
+                 <ul>
+                     <li><figure><img src="images/vms1.jpg" width="980" height="350" alt=""><figcaption>متن مورد نظر مربوط به عکس</figcaption></figure></li>
+                     <li><figure><img src="images/vms2.jpg" width="980" height="350" alt=""><figcaption>متن مورد نظر مربوط به عکس</figcaption></figure></li>
+                     <li><figure><img src="images/vms3.jpg" width="980" height="350" alt=""><figcaption>متن مورد نظر مربوط به عکس</figcaption></figure></li>
+                     <li><figure><img src="images/vms4.jpg" width="980" height="350" alt=""><figcaption>متن مورد نظر مربوط به عکس</figcaption></figure></li>
+                     <li><figure><img src="images/vms5.jpg" width="980" height="350" alt=""><figcaption>متن مورد نظر مربوط به عکس</figcaption></figure></li>
+                 </ul>
+             </a>
+             </a>
+         </div>
+
+     </section>
+    <hr/>
+
+    <!--بخش تماس با من-->
+    <section style="font-family:'Segoe UI'">
+        <a name="Contact">
+            <h3 style="text-align:center;font-family:'Segoe UI'; font-size:xx-large">Contact Me</h3>
+            <br />
+            <p style="text-align:center">-------------------------------</p>
+            <br />
+            <p style="text-align: center">
+                <br />Shoma Mitavanid Har Nazari  ke darid
+                <br /><br />Dar Qesmat Tamas Ba Ma baraye man befrestid.
+                <br /><br /> Montazer Enteghad Va Pishnahad Hay Shoma Hastam
+                <br />
+                <div class="page-container">
+                    <form class='contact-us' action="" method="post">
+                        <h5>ersal nazar</h5><br/>
+                        <input type="text" name="name" class="name" placeholder="Name...">
+                        <br />
+                        <input type="text" name="email" class="email" placeholder="Email...">
+                        <br />
+                        <input type="text" name="subject" class="subject" placeholder="Subject...">
+                        <br />
+                        <textarea name="message" class="message" placeholder="Message..."></textarea>
+                        <br />
+                        <button type="button" onclick="alert('Payam Shoma Sabt Shod')">Send Message</button>
+                    </form>
+                </div>
+
+
+            </p>
+        </a>
+    </section>
+    <!--فوتر سایت-->
+    <footer>
+        <pre><img src="images/Telegram.png" />   <img src="images/Instagram.png" />   <img src="images/FB.png" />   <img src="images/G+.png"/>  <img src="images/Twitter.png"/></pre>
+        <br />
+        <br />
+        <p>&copy;Desigen by:zahra mortazaviyan</p>
+        <p style="text-align:right"><a href="#home"><img src="images/Up.png" /></p></a>
+
+    </footer>
+    
+
+
+   
+
+
+
+
+</body>
 </html>
